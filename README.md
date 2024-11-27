@@ -103,13 +103,11 @@
 </a>
 <br>
 
-<img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushawasthi24&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
-
 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ayushawasthi24&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" height="250" width="350"/></td>
-    <td><img src="https://stats.quira.sh/Faizuddinq/github?theme=dark" width="350" height="250"/></td>
+    <td><img src="https://stats.quira.sh/ayushawasthi24/github?theme=dark" width="350" height="250"/></td>
   </tr>
   <tr>
     <td><img src="https://stats.quine.sh/ayushawasthi24/topics-over-time?theme=dark" width="350" height="250"/></td>
